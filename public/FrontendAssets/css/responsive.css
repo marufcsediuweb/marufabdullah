@@ -1,0 +1,192 @@
+
+@media screen and (min-width: 1401px) {
+
+
+}
+
+@media screen and (min-width: 1201px) and (max-width: 1400px) {
+
+
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 1200px){
+
+
+    .footer-menu {
+        margin-bottom: 30px;
+    }
+    .contact-form {
+        margin-top: 30px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+
+
+    /* Header Responsive Css  */
+
+    .header-logo img {
+        width: 150px;
+    }
+
+    .header-logo {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .header-menu ul {
+        text-align: center;
+    }
+    .header-menu ul li {
+        margin: 0 10px;
+    }
+
+
+    /* Navigate Page Responsive Css  */
+
+    .body-wrapper {
+        padding-top: 35px;
+    }
+
+    .header-top img {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        margin-bottom: 20px;
+    }
+    .header-top h2 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .header-top p {
+        line-height: 23px;
+        font-size: 15px;
+    }
+    .link-list {
+        margin-top: 30px;
+    }
+    .link-img img {
+        width: 40px;
+        height: 40px;
+        border-radius: 8px;
+    }
+    .link-title h3 {
+        font-size: 15px;
+        line-height: 23px;
+    }
+    ul.list-menu li {
+        margin-bottom: 10px;
+    }
+
+
+
+    /* Resume Page Responsive Css  */
+
+    .main {
+        padding: 30px 0px;
+    }
+
+    .img-section img {
+        width: 100%;
+        height: 400px;
+    }
+
+    .maruf-info {
+        margin-top: 30px;
+    }
+    .user-name h1 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .info-wrap {
+        padding: 10px;
+    }
+    .testmonial-section {
+        padding: 10px;
+        margin-top: 30px;
+    }
+    .testimonials {
+        margin-top: 30px;
+    }
+    .case-studies-section {
+        padding: 10px;
+        margin-top: 30px;
+    }
+    .case-studies-div {
+        margin-top: 30px;
+    }
+    .case-studies-img img {
+        height: 350px;
+    }
+    .right-sidebar {
+        margin-top: 30px;
+    }
+    h2.clients-title {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .my-clients {
+        margin-top: 20px;
+    }
+    .clinets-name h3 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .middle-layer a {
+        font-size: 18px;
+    }
+
+    .fetured-info {
+        margin-bottom: 20px;
+    }
+
+    /* Footer Responsive Css  */
+
+    footer.footer {
+        padding: 30px 0px;
+    }
+    .footer-menu {
+        margin-bottom: 25px;
+        border-bottom: 1px solid #524d4d;
+        padding-bottom: 10px;
+    }
+    .row.footer-social {
+        padding-bottom: 30px;
+    }
+    .social-menu {
+        text-align: center;
+    }
+
+    .social-menu ul li a {
+        font-size: 15px;
+        width: 30px;
+        height: 30px;
+    }
+
+
+    /* Contact Page Responsive Css  */
+
+    .contact-page {
+        padding: 30px 0px;
+    }
+
+    .contact-page-title h2 {
+        font-size: 25px;
+        line-height: 30px;
+        font-weight: 700;
+    }
+
+    .row.contact-area-bg {
+        background-color: #f3f1f1f7;
+        padding: 20px;
+        border-radius: 5px;
+        margin: 30px 10px;
+    }
+
+    .contact-form {
+        margin-top: 30px;
+    }
+
+}
